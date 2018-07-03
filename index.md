@@ -21,6 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 3. Added Information
+4. Second Added Information
 
 **Bold** and _Italic_ and `Code` text
 
